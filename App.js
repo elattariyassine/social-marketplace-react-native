@@ -33,14 +33,15 @@ export default function App() {
   const [selectItem, setSelectedLanguage] = useState();
 
   return (
-    <Screen>
-      <BasePicker
-        selectedItem={category}
-        onSelectItem={(category) => setCategory(category)}
-        items={categories}
-        icon="apps"
-        placeholder="category"
-      />
-    </Screen>
+    <WelcomeScreen />
+    // <Screen>
+    //   <BasePicker
+    //     selectedItem={category}
+    //     onSelectItem={(category) => setCategory(category)}
+    //     items={categories}
+    //     icon="apps"
+    //     placeholder="category"
+    //   />
+    // </Screen>
   );
 }
