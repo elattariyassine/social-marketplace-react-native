@@ -16,7 +16,7 @@ Social Marketplace to sell what you don't need anymore. the app supports registe
 
 > Welcome Screen
 
-![Welcome Screen](https://github.com/ELATTARIYassine/social-marketplace-react-native/tree/master/Github-readme-images/WelcomeScreen.png "Welcome Screen")
+![Welcome Screen](https://raw.githubusercontent.com/ELATTARIYassine/social-marketplace-react-native/master/Github-readme-images/WelcomeScreen.png "Welcome Screen")
 
 > Account Screen
 
