@@ -14,27 +14,26 @@ Social Marketplace to sell what you don't need anymore. the app supports registe
 
 ## Few Screens
 
-> Welcome Screen
+> Welcome Screen (of course the logo is not mines but it looks good in this screen xD, it serves as a placeholder)
 
-![Welcome Screen](https://raw.githubusercontent.com/ELATTARIYassine/social-marketplace-react-native/master/Github-readme-images/WelcomeScreen.png "Welcome Screen")
+<img src="[drawing.jpg](https://raw.githubusercontent.com/ELATTARIYassine/social-marketplace-react-native/master/Github-readme-images/WelcomeScreen.png)" alt="Welcome Screen" height="500"/>
 
 > Account Screen
 
-![Account Screen](https://github.com/ELATTARIYassine/social-marketplace-react-native/tree/master/Github-readme-images/AccountScreen.png "Account Screen")
-
+<img src="https://raw.githubusercontent.com/ELATTARIYassine/social-marketplace-react-native/master/Github-readme-images/AccountScreen.png" alt="Account Screen" height="500"/>
 
 > Listings Screen
 
-![Listings Screen](https://github.com/ELATTARIYassine/social-marketplace-react-native/tree/master/Github-readme-images/ListingsScreen.png "Listings Screen")
-
+<img src="https://github.com/ELATTARIYassine/social-marketplace-react-native/blob/master/Github-readme-images/ListingsScreen.png?raw=true" alt="Listings Screen" height="500"/>
 
 > Listing Details Screen
 
-![Listing Details Screen](https://github.com/ELATTARIYassine/social-marketplace-react-native/tree/master/Github-readme-images/ListingDetailsScreen.png "Listing Details Screen")
+<img src="https://raw.githubusercontent.com/ELATTARIYassine/social-marketplace-react-native/master/Github-readme-images/ListingDetailsScreen.png" alt="Listing Details Screen" height="500"/>
+
 
 > ViewImage Screen
 
-![ViewImage Screen](https://github.com/ELATTARIYassine/social-marketplace-react-native/tree/master/Github-readme-images/ViewImageScreen.png "ViewImage Screen")
+<img src="https://github.com/ELATTARIYassine/social-marketplace-react-native/blob/master/Github-readme-images/ViewImageScreen.png?raw=true" alt="ViewImage Screen" height="500"/>
 
 ## State (WIP)
 The app is not fully finished yet (I work on it when I have enough free time!).
